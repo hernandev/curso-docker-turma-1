@@ -1,10 +1,18 @@
 # Lista de Exercícios 1
 
+---
+
 ### 1 - Instalar o Docker em seu OS
+
+---
 
 ### 2 - (Linux Apenas) Adicionar seu usuário ao grupo do docker, para não precisar rodar com sudo
 
+---
+
 ### 3 - Brincar na Docker Store, encontrar imagens e rodar alguns exemplos
+
+---
 
 ### 4 - Sub-comando `volume`
 
@@ -14,11 +22,15 @@
 
 #### 4.3 - Remover todos os volumes que não estão conectados a um container, com 1 único container
 
+---
+
 ### 5 - Sub-comando `image`
 
 #### 5.1 - Listar, Baixar, Remover e inspecionar imagens com o comando `docker image`
 
 #### 5.2 - Baixar pelo menos mais de 1 tag de uma imagem (exemplo: ubuntu:16.04 e ubuntu:17.04)
+
+---
 
 ### 6 - Sub-comando `run`
 
@@ -35,6 +47,8 @@
 #### 6.6 - Executar pelo menos 1 exemplo passando um comando customizado para inicializar o container (exemplo sh vs bash)
 
 #### 6.7 - Executar 1 container, com a opção de auto remoção (`--rm`)
+
+---
 
 ### 7 - Operações Básicas em Containers
 
